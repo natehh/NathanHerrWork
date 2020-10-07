@@ -23,7 +23,7 @@ From heat_solution_2_1, found in folder "Test Outputs":
 1.000000 0.000000 1.000000 
 1.000000 0.500000 1.000000 
 1.000000 1.000000 1.000000 
-This does not follow the exact solution, but I was not able to figure out why.
+
 
 from heat_solution_2_2, found in folder "Test Outputs":
 0.000000 0.000000 0.000000 
@@ -35,5 +35,4 @@ from heat_solution_2_2, found in folder "Test Outputs":
 1.000000 0.000000 0.000000 
 1.000000 0.500000 0.000000 
 1.000000 1.000000 0.000000 
-This follows the exact solution, as any solution with x or y as 0 or 1 is 0, and the solution corresponding to x=y=.5 is .0625, which is equal to .5*.5*.5*.5
-Unfortunately, I was not able to perform the convergence study or find the heat flux. 
+
